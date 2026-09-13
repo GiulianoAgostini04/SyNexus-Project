@@ -1,3 +1,5 @@
+# MATLAB Section
+
 Experimental Scripts written in MATLAB to: 
 1) Convert the OpenBCI files into a compatible format for EEGLAB and ERPLAB
 2) Create a Training session within MATLAB App Designer
